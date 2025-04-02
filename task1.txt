@@ -1,0 +1,197 @@
+Eswar@Eswar MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{94684670-289a-11ee-9f00-b2ccfe5ca615}.TM.blf
+ NTUSER.DAT{94684670-289a-11ee-9f00-b2ccfe5ca615}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{94684670-289a-11ee-9f00-b2ccfe5ca615}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Oracle/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ demo-react-app/
+ eclipse/
+ linux/
+ newfile.txt
+ node
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ sample.txt
+
+Eswar@Eswar MINGW64 ~
+$ pwd
+/c/Users/Eswar
+
+Eswar@Eswar MINGW64 ~
+$ mkdir eswar
+
+Eswar@Eswar MINGW64 ~
+$ echo -m "eswar"
+-m eswar
+
+Eswar@Eswar MINGW64 ~
+$ cd eswar
+
+Eswar@Eswar MINGW64 ~/eswar
+$ pwd
+/c/Users/Eswar/eswar
+
+Eswar@Eswar MINGW64 ~/eswar
+$ touch file.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ echo "eswarrrrr"
+eswarrrrr
+
+Eswar@Eswar MINGW64 ~/eswar
+$ echo -v "gfds"
+-v gfds
+
+Eswar@Eswar MINGW64 ~/eswar
+$ echo file.txt "edfre3"
+file.txt edfre3
+
+Eswar@Eswar MINGW64 ~/eswar
+$ ech0 "eswarrrr">file.txt
+bash: ech0: command not found
+
+Eswar@Eswar MINGW64 ~/eswar
+$ echo "eswarrrr">file.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ ls
+file.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ rmdir file.txt
+rmdir: failed to remove 'file.txt': Not a directory
+
+Eswar@Eswar MINGW64 ~/eswar
+$ rmdir pwd
+rmdir: failed to remove 'pwd': No such file or directory
+
+Eswar@Eswar MINGW64 ~/eswar
+$ pwd
+/c/Users/Eswar/eswar
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cd Eswar
+bash: cd: Eswar: No such file or directory
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cd
+
+Eswar@Eswar MINGW64 ~
+$ pwd
+/c/Users/Eswar
+
+Eswar@Eswar MINGW64 ~
+$ cd eswar
+
+Eswar@Eswar MINGW64 ~/eswar
+$ pwd
+/c/Users/Eswar/eswar
+
+Eswar@Eswar MINGW64 ~/eswar
+$ mkdir sample1
+
+Eswar@Eswar MINGW64 ~/eswar
+$ touch sf.text
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cd sample
+bash: cd: sample: No such file or directory
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cd sample1
+
+Eswar@Eswar MINGW64 ~/eswar/sample1
+$ pwd
+/c/Users/Eswar/eswar/sample1
+
+Eswar@Eswar MINGW64 ~/eswar/sample1
+$ touch files.txt
+
+Eswar@Eswar MINGW64 ~/eswar/sample1
+$ cd
+
+Eswar@Eswar MINGW64 ~
+$ pwd
+/c/Users/Eswar
+
+Eswar@Eswar MINGW64 ~
+$ cd eswar
+
+Eswar@Eswar MINGW64 ~/eswar
+$ echo "eswarrao">files.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ echo "eswarrao">files2.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ rmdir sample1
+rmdir: failed to remove 'sample1': Directory not empty
+
+Eswar@Eswar MINGW64 ~/eswar
+$ rmdir sample1
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cp file2.txt file1.txt
+cp: cannot stat 'file2.txt': No such file or directory
+
+Eswar@Eswar MINGW64 ~/eswar
+$ pwd
+/c/Users/Eswar/eswar
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cp files.txt files2.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ rm files.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ rm files2.txt
+
+Eswar@Eswar MINGW64 ~/eswar
+$ username
+bash: username: command not found
+
+Eswar@Eswar MINGW64 ~/eswar
+$ uname
+MINGW64_NT-10.0-22631
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cat sf.txt
+cat: sf.txt: No such file or directory
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cat sf.txt
+cat: sf.txt: No such file or directory
+
+Eswar@Eswar MINGW64 ~/eswar
+$ cat file.txt
+eswarrrr
+
+Eswar@Eswar MINGW64 ~/eswar
+$
